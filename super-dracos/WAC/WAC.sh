@@ -3,7 +3,7 @@
 #===========================================================================#
 #                          WIFI Connector Automatic			    #
 #									    #
-#                        Script write by Muhammad Yuga			    #
+#                        Script write by K4L1L1NUX.        		    #
 #	                 Contact me blackcat@gmail.com                      #
 #===========================================================================#
 
@@ -11,7 +11,7 @@
 c0="$(tput setaf 0)"	# black
 c1="$(tput setaf 1)"	# red
 c2="$(tput setaf 2)"	# green
-c3="$(tput setaf 3)"	# yellow
+c3="$(tput setaf 3)"	# yellow 
 c4="$(tput setaf 4)"	# blue
 c5="$(tput setaf 5)"	# magenta
 c6="$(tput setaf 6)"	# cyan
